@@ -1,0 +1,34 @@
+\timing
+ANALYZE VERBOSE tbom_l35_dcto_log;
+ANALYZE VERBOSE tbom_l36_arqu_regi;
+ANALYZE VERBOSE tbom_d01_dcto;
+ANALYZE VERBOSE tbom_d02_dcto_reca;
+ANALYZE VERBOSE tbom_d03_dcto_pont;
+ANALYZE VERBOSE tbom_d04_dcto_grup;
+ANALYZE VERBOSE tbom_d05_dcto_dupl;
+--ANALYZE VERBOSE tbom_d06_dcto_totz;
+--ANALYZE VERBOSE tbom_d07_dcto_trlh_tran;
+ANALYZE VERBOSE tbom_d08_dcto_ctrl;
+--ANALYZE VERBOSE tbom_d09_dcto_trlh_audi;
+ANALYZE VERBOSE tbom_d10_dcto_espe;
+--ANALYZE VERBOSE tbom_d15_dcto_totz_temp;
+ANALYZE VERBOSE tbom_d16_dcto_totz_asso;
+ANALYZE VERBOSE tbom_d18_dcto_reco;
+ANALYZE VERBOSE tbom_d20_dcto_imag_esta;
+ANALYZE VERBOSE tbom_d30_dcto_ctrl_agen;
+ANALYZE VERBOSE tbom_d51_dcto_cust;
+ANALYZE VERBOSE tbom_l05_proc_erro_log;
+ANALYZE VERBOSE tbom_o01_ocor;
+ANALYZE VERBOSE tbom_o02_ocor_tipo;
+ANALYZE VERBOSE tbom_p05_banc_agen;
+ANALYZE VERBOSE tbom_p21_esta_trab_agen;
+ANALYZE VERBOSE tbom_p23_lota_site_tipo;
+ANALYZE VERBOSE tbom_p24_lota;
+ANALYZE VERBOSE tbom_p51_codi_font;
+ANALYZE VERBOSE tbom_p62_lota_hier;
+ANALYZE VERBOSE tbom_p64_lota_deta;
+ANALYZE VERBOSE tbom_p64_lota_deta; 
+ANALYZE VERBOSE tbom_r02_rems_bloc;
+ANALYZE VERBOSE tbom_r06_rems_bloc_deta;
+ANALYZE VERBOSE tbom_u11_usua_espe;
+\timing
